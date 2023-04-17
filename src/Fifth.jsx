@@ -20,7 +20,7 @@ const Fifth=()=>{
         if(clue1=='leaves')
         {
             console.log("hey");
-            nav("/second/fourth/fifth/treasure");
+            nav("/Second/Fourth/Fifth/Treasure");
 
         }
         else

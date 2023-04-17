@@ -13,7 +13,7 @@ const Fourth=()=>{
                 Determine the key hidden in the given audio file</div>
                 <div className='fc3'><Link to="https://drive.google.com/file/d/1yslYAAQW6mO1Ur9YC4VLE34TYA1kINjK/view?usp=share_link" style={{ color:'white',fontWeight:'bold'}}>https://drive.google.com/file/d/1yslYAAQW6mO1Ur9YC4VLE34TYA1kINjK/view?usp=share_link</Link></div>
                 
-                <Input ans="thunder" num="fifth" link="/second/fourth/fifth"/>
+                <Input ans="thunder" num="fifth" link="/Second/Fourth/Fifth"/>
 
                 <div className='fc4'>Still confused??<br/>
                 Remember, <strong>Names</strong> have power like magic spells...</div>
