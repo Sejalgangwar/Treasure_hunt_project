@@ -1,8 +1,8 @@
 import React,{useState} from 'react';
-import {Link} from 'react-router-dom';
+import {Link, useNavigate} from 'react-router-dom';
 
 const Input=(props)=>{
-
+    const navigate = useNavigate();
     const [clue1,setClue1]=useState("");
     const[clue,setClue]=useState();
     const[secondclue,setSecondclue]=useState();
@@ -17,7 +17,8 @@ const Input=(props)=>{
             setSecondclue(<>
             <div className="right">You got this right!! </div><br/><br/>
             Here's your {props.num} clue : 
-            <Link to={props.link} target="_blank" rel="noopener noreferrer" style={{color:'white'}}>  Next</Link>
+             navigate({props.link})
+            {/* <Link to={props.link} target="_blank" rel="noopener noreferrer" style={{color:'white'}}>  Next</Link> */}
             </>)
 
         }

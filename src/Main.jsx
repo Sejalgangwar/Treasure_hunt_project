@@ -1,9 +1,10 @@
 import React, {useState} from 'react';
 import Input from './Input';
+import { useNavigate } from 'react-router-dom';
 
 
 const Main=()=>{
-    
+    const navigate = useNavigate();
     return(
         <>
         <div className='container'>
