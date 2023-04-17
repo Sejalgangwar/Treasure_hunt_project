@@ -16,9 +16,9 @@ const Second=()=>{
                 <div className='sc3'>Choose one image according to the above clue.<br/><br/>
                  BEWARE!! Wrong choice may take you to a dead end!</div>
                 <div className='pics'>
-                    <Link to="/Second/Third" target="_blank"><img src={dog}/></Link>
-                    <Link to="/Second/Error"><img src={cat}/></Link>
-                    <Link to="/Second/Error"><img src={rabbit}/></Link>
+                    <Link to="/second/third" target="_blank"><img src={dog}/></Link>
+                    <Link to="/second/error"><img src={cat}/></Link>
+                    <Link to="/second/error"><img src={rabbit}/></Link>
                 </div>
             </div>
             <Footer/>

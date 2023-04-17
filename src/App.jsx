@@ -17,12 +17,12 @@ function App()
         <Routes>
             <Route exact path="/" element={<Login />}/>
             <Route exact path="/Main" element={<Main/>}/>
-            <Route exact path="/Second" element={<Second />}/>
-            <Route exact path="/Second/Error" element={<Error />}/>
-            <Route exact path="/Second/Third" element={<Third/>}/>
-            <Route exact path="/Second/Fourth" element={<Fourth/>}/>
-            <Route exact path="/Second/Fourth/Fifth" element={<Fifth/>}/>
-            <Route exact path='/Second/Fourth/Fifth/Treasure' element={<Treasure/>}/>
+            <Route exact path="/second" element={<Second />}/>
+            <Route exact path="/second/error" element={<Error />}/>
+            <Route exact path="/second/third" element={<Third/>}/>
+            <Route exact path="/second/fourth" element={<Fourth/>}/>
+            <Route exact path="/second/fourth/fifth" element={<Fifth/>}/>
+            <Route exact path='/second/fourth/fifth/treasure' element={<Treasure/>}/>
         </Routes>
     </>
     );
