@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Treasure_hunt_project/static/css/main.0457f6a3.css",
+    "main.js": "/Treasure_hunt_project/static/js/main.d4bcc437.js",
+    "static/media/dead2.jpg": "/Treasure_hunt_project/static/media/dead2.5c2a112999e36a6b12a7.jpg",
+    "static/media/treasure.jpg": "/Treasure_hunt_project/static/media/treasure.50812c66366a5b95a0f4.jpg",
+    "static/media/autumn.jpg": "/Treasure_hunt_project/static/media/autumn.4eb4c4c2a1df5222f53b.jpg",
+    "static/media/dog.jpg": "/Treasure_hunt_project/static/media/dog.42a984b4572d040c26ea.jpg",
+    "static/media/login.jpg": "/Treasure_hunt_project/static/media/login.fce5d26c025c9f49b04e.jpg",
+    "static/media/water.jpg": "/Treasure_hunt_project/static/media/water.3a944adfa9c5b99eaef7.jpg",
+    "static/media/texture.jpg": "/Treasure_hunt_project/static/media/texture.064a5ff54b04eaf7a987.jpg",
+    "static/media/fourth.jpg": "/Treasure_hunt_project/static/media/fourth.f1ca2e460972a913b2fc.jpg",
+    "static/media/bg3.jpg": "/Treasure_hunt_project/static/media/bg3.ff0448e9fb0dcfb68df9.jpg",
+    "index.html": "/Treasure_hunt_project/index.html",
+    "main.0457f6a3.css.map": "/Treasure_hunt_project/static/css/main.0457f6a3.css.map",
+    "main.d4bcc437.js.map": "/Treasure_hunt_project/static/js/main.d4bcc437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0457f6a3.css",
+    "static/js/main.d4bcc437.js"
+  ]
+}
