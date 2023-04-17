@@ -1,3 +1,5 @@
+Treasure Hunt Guide
+
 1. User sign up page allows any user to enter the Treasure Hunt game by entering his email id and password.
 2. The entire Treasure Hunt game revolves around the theme 'Nature'.
 3. First clue : The clue is encrypted. Given a function f(3) signifies that the actual character of the clue will be obtained by going 3 characters back in the encrypted text according to the English alphabets.
