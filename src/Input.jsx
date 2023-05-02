@@ -15,8 +15,7 @@ const Input=(props)=>{
         {
             console.log("hey");
             setSecondclue(<>
-            <div className="right">You got this right!! </div><br/><br/>
-            Here's your {props.num} clue : 
+           
              {nav(props.link)}
             {/* <Link to={props.link} target="_blank" rel="noopener noreferrer" style={{color:'white'}}>  Next</Link>  */}
             </>)

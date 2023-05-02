@@ -36,7 +36,7 @@ const Login=()=>{
             alert("Email is invalid");
         }
         else{
-            alert("Login successful!");
+            alert("Signup successful!");
             nav("/Main");
         }
         
